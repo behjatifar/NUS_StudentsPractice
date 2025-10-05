@@ -1,3 +1,4 @@
+لیست تمرینات نوت پد تمرین اول ری اکت
 امیرعلی علیزاده 
 https://github.com/amirali13852b/react-note-project.git
 
@@ -9,3 +10,6 @@ https://github.com/AMIRADI2006/Front-React/blob/main/MyProject-React.rar
 
 مهدی کلیدری 
 https://github.com/mahdiklidari190/Web-project/tree/main
+
+متین فرمان بر
+https://github.com/Drunkfacee/React-note-App/tree/main/notes-app/src
